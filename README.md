@@ -1,0 +1,2 @@
+# FAQ
+Frontend challenge
